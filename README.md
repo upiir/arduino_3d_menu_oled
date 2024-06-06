@@ -1,9 +1,9 @@
 # 3D Menu using Arduino UNO and 128x64 SSD1306 IIC OLED Display
 3D Menu using Arduino UNO and 128x64 SSD1306 IIC OLED Display
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/uEkksez7qvE**
 
-**WOKWI sketch: XXX**
+**WOKWI sketch: https://wokwi.com/projects/399946867548655617**
 
 Links from the video:
 - Transparent OLED display: https://s.click.aliexpress.com/e/_DFcuIwr
