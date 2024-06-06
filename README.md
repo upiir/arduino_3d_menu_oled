@@ -6,6 +6,7 @@
 **WOKWI sketch: https://wokwi.com/projects/399946867548655617**
 
 Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
 - Transparent OLED display: https://s.click.aliexpress.com/e/_DFcuIwr
 - 128x64 SSD1306 OLED Display 1.54": https://s.click.aliexpress.com/e/_DCYdWXb 
 - 128x64 SSD1306 OLED Display 0.96": https://s.click.aliexpress.com/e/_DCKdvnh
@@ -23,7 +24,7 @@ Related videos with Arduino UNO and 128x64 OLED screen:
 
 ![THUMB_arduino_3d_menu](https://github.com/upiir/arduino_3d_menu_oled/assets/117754156/cc3a1521-135d-44c5-a820-0b516c51d6fd)
 
-
+_This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
 
 Small Animations:
 
